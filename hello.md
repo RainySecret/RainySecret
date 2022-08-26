@@ -1,0 +1,4 @@
+- 👋 Hi, I’m RainySecret.
+- 👀 I’m interested in Java, and I’m currently learning spring principle.
+- 🌱 My hobby is playing billiards.
+- 😆 We can not only discuss Java technology together, but also learn billiards skills.
